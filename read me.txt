@@ -1,0 +1,7 @@
+WP-THEME
+
+
+
+Use PHP MyAdmin or any MySQL client to execute MySQL file " wp (1).sql " at your Localhost/Server.
+
+theme name: personal blog
